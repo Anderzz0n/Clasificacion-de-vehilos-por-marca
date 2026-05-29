@@ -1,6 +1,6 @@
 # Proyecto de Clasificación de imagenes de vehículos por su marca
 
-Banner
+![Banner](/BannerThunders.jpg)
 
 --- 
 ## Autores
