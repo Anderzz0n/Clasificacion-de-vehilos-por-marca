@@ -53,5 +53,5 @@ El rendimiento de los modelos se evaluó principalmente con f1-score, como conse
 - Repositorio de Github: [Clasificación_de_vehículos_por_marca](https://github.com/Anderzz0n/Clasificacion-de-vehilos-por-marca).
 - Dataset: [Kaggle](https://www.kaggle.com/datasets/kshitij192/cars-image-dataset).
 - Slides: [Canva](https://canva.link/xl2oa27salmsewa).
-- Video del proyecto: [Youtube]().
+- Video del proyecto: [Youtube](https://youtu.be/qPeZhTww2Qo).
 ---
